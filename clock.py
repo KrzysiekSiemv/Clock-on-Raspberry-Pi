@@ -1,4 +1,6 @@
 #!/bin/bash
+# Stworzone przez Krzysztof 'KrzysiekSiemv' Smaga
+# GitHub: https://github.com/KrzysiekSiemv
 import time
 import math
 import datetime
